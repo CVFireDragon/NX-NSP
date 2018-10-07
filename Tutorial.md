@@ -1,6 +1,6 @@
 Download DevKitPro and Msys2 if you do not have them
 
-:First Time:
+If you are doing this for the first time, follow the step below. Otherwise just skip till after the ='s
 
 Open up CMD and type these commands: 
 
@@ -27,8 +27,6 @@ pacman -S switch-libogg
 y
 
 ==================================
-
-:AfterWards:
 
 Download forwarder-creation-kit from here:
 
