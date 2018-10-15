@@ -1,3 +1,7 @@
+# Tutorial
+
+https://github.com/CVFireDragon/NX-NSP/blob/master/RedirNSPs/Tutorial.md
+
 # NSPs
 
 ## HomeBrew Menu
