@@ -5,4 +5,6 @@ Tutorials and other things for .NSP files
 
 https://github.com/CVFireDragon/NX-NSP/tree/master/RedirNSPs
 
-## VidNSPs: Coming Soon
+## VidNSPs: NSPs that can play videos (examples, tutorial and more)
+
+https://github.com/CVFireDragon/NX-NSP/tree/master/VidNSPs
