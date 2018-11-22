@@ -1,10 +1,12 @@
 Download devKitPro and Msys2 if you do not have them
 
-If you are doing this for the first time, follow the step below. Otherwise just skip till after the ='s
+If you are doing this for the first time, follow the step below. Otherwise just skip till after Part 1
+
+# Tutorial
+
+## Part 1
 
 Open up CMD and type these commands: 
-
-=================================
 
 pacman -S switch-sdl2_mixer
 
@@ -26,7 +28,7 @@ pacman -S switch-libogg
 
 y
 
-==================================
+## Part 2
 
 Download forwarder-creation-kit from here:
 
