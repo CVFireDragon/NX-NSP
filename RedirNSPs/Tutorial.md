@@ -1,4 +1,4 @@
-Download DevKitPro and Msys2 if you do not have them
+Download devKitPro and Msys2 if you do not have them
 
 If you are doing this for the first time, follow the step below. Otherwise just skip till after the ='s
 
